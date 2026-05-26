@@ -4,6 +4,9 @@ It automatically extracts active `server_name` entries from `nginx -T`, connects
 
 The tool is designed for sysadmins and DevOps engineers who want a fast, dependency-light way to monitor certificate expiration across multiple Nginx sites without external monitoring systems.
 
+
+![picture](./photo.jpeg)
+
 ### 🔧 Features
 
 * Auto-detects SSL-enabled domains from Nginx configuration (`nginx -T`)
